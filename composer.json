@@ -1,0 +1,17 @@
+{
+    "name": "julio/boa-compra",
+    "description": "Projeto para c\u0000lculo de frete",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Julio Sieg",
+            "email": "julio.sieg@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4":  {
+            "App\\" : "src/"
+        }
+    }
+}
